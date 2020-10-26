@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.yepdemo.qa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "yep_demo",
+    "packageName": "com.yepdemo.qa",
+    "packageFolder": "com/yepdemo/qa",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDEyMDY0NTY0OTMyOGQ1ZDFkMmQwMDk1NzM4MGE1ODQyZTdjNWI1MzdiMmI1ZDMzZjMwODFhZjIyYzEwYTUwMjI5NjM1ZGM1NGRkY2IzMzM2Y2Y0NjM1MDE2ZDFiMjFiMDAzMGQ0MzYwNWI0NjY5NjA0NjIyZmQ2ZmM4NDExMWU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "yeti",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1603744335346,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn", "fr", "de", "it"],
+    "blueprints": []
+  }
+}
